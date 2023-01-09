@@ -1,2 +1,1 @@
-# PrepCourse_Henry
-Repositorio PrepCourse de Henry
+Esto es una prueba de como clonar un repositorio de la nube a mi repositorio local desde Github
